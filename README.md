@@ -1,2 +1,2 @@
-# repositorio sobre la practica de git pull
+# repositorio sobre la practica de git pull(MACMcCode)
 repositorio sobre la practica de git pull
